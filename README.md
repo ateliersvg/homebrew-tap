@@ -1,4 +1,4 @@
-# Ateliersvg Tap
+# Atelier SVG Homebrew Tap
 
 ## How do I install these formulae?
 
